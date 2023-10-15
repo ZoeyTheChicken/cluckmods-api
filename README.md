@@ -1,1 +1,3 @@
-# cluckmods-api
+# Cluckmods API
+
+Features: Serve ads and more!
